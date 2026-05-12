@@ -1,6 +1,0 @@
-flask==3.0.3
-flask-cors==4.0.1
-python-binance==1.0.19
-requests==2.31.0
-numpy==1.26.4
-gunicorn==21.2.0
